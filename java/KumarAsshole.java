@@ -9,11 +9,11 @@ import javax.mail.internet.*;
 import javax.mail.search.FlagTerm;
 //Dependencies- Java mail API 
 
-public class Kumar_Asshole {
+public class KumarAsshole {
 
 	public static void main(String[] args) {
-		Kumar_Asshole gmail = new Kumar_Asshole();
-		gmail.read();
+		KumarAsshole asshole = new KumarAsshole();
+		asshole.read();
 	}
 
 	public void read() {
